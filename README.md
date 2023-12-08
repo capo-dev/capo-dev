@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Likedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-Red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bengray190@gmail.com)](mailto:bengray190@gmail.com)
 
-My name is Benjamin but go by Ben. I was born in Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿, and immigrated to the United States in my early years of education. 󠁧󠁢󠁳📚  I am passionate in Cyber Security and bettering Information Technology.
+My name is Benjamin but go by Ben. I was born in Scotland 󠁧󠁢󠁳, and immigrated to the United States in my early years of education. 󠁧󠁢󠁳📚  I am passionate in Cyber Security and bettering Information Technology.
 
 ## 💻 Projects
 * QueuedV - Co-founder of Social Media Automation Company
