@@ -1,16 +1,26 @@
-### Hi there 👋
+<h2> Hello! Welcome to my Github page ></h2>
 
-<!--
-**capo-dev/capo-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align='right' src='http://www.jenyalestina.com/blog/wp-content/uploads/2019/05/web-development-1024x582.jpg' width='300"'>
 
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/-Lindkeden-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-Red?style=flat-square&logo=Gmail&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is Benjamin but go by Ben. I was born in Scotland, and immigrated to the United States in my early years of education. 󠁧󠁢󠁳📚  I am passionate in Cyber Security and bettering Information Technology.
+
+## 💻 Projects
+* QueuedV - Co-founder of Social Media Automation Company
+
+## 📖 Education
+- Assosciates in Cyber Security: Lone Star College System
+- Pursuing Bachelors in Cyber Security: Lone Star College System
+- Future pursuit in Masters in Cyber Security
+
+## ⚡ Technologies 
+- Python
+- Learning Atom Web Development
+
+## 👋 Reach out to me 
+- 💬 Ask me about anything Cyber Security related!
+- 🖼️ Portfolio site: [Portfolio] (wip)
+
+![capo-dev github stats](https://github-readme-stats.vercel.app/api?username=capo-dev&hide=["issues"]&show_icons=true)
