@@ -10,7 +10,8 @@ I am passionate in Cyber Security and bettering Information Technology.
 
 ## 💻 Projects
 * QueuedV - Co-founder of Social Media Automation Company
-* Windows PyWare - Simple Python Spyware for Educational Purposes
+* [![Windows PyWare](https://img.shields.io/badge/Windows-PyWare-pink)](https://github.com/capo-dev/Windows-PyWare) - Simple Python Spyware for Educational Purposes
+
 
 ##  📖 Education
 - Assosciates in Cyber Security: Lone Star College System
