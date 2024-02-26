@@ -23,7 +23,9 @@ I am passionate in Cyber Security and bettering Information Technology.
 
 ## ⚡ Technologies 
 - Python
+- Azure Cloud Computing
 - Learning Atom Web Development
+- Learning Java Script
 
 ## 👋 Reach out to me 
 - 💬 Ask me about anything Cyber Security related!
