@@ -11,6 +11,7 @@ I am passionate in Cyber Security and bettering Information Technology.
 ## 💻 Projects
 * QueuedV - Co-founder of Social Media Automation Company
 * [![Windows PyWare](https://img.shields.io/badge/Windows-PyWare-pink)](https://github.com/capo-dev/Windows-PyWare) - Simple Python Spyware for Windows
+* 
 
 
 ##  📖 Education
@@ -22,8 +23,11 @@ I am passionate in Cyber Security and bettering Information Technology.
 - Comptia Security+
 
 ## ⚡ Technologies 
-- Python
 - Azure Cloud Computing
+- Python
+- DarkTrace Security Suite
+- Microsoft Defender
+- Tenable
 - Learning Atom Web Development
 - Learning Java Script
 
