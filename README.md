@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-Red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bengray190@gmail.com)](mailto:bengray190@gmail.com)
 
-My name is Benjamin but go by Ben. I was born in Scotland, and immigrated to the United States in my early years of education 📚
+My name is Benjamin, I prefer to go bby Ben. I was born in Scotland, and immigrated to the United States in my early years of education 📚
 I am passionate in Cyber Security and bettering Information Technology.
 
 ## 💻 Projects
@@ -16,8 +16,8 @@ I am passionate in Cyber Security and bettering Information Technology.
 
 ##  📖 Education
 - Assosciates in Cyber Security: Lone Star College System
-- Pursuing Bachelors in Cyber Security: Lone Star College System
-- Future pursuit in Masters in Cyber Security
+- Bachelors in Cyber Security: Lone Star College System
+- Future pursuit in Masters in Business Administration
 
 ## ✔️ Certifications
 - Comptia Security+
