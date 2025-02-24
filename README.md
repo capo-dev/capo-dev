@@ -1,6 +1,8 @@
 <h2> Welcome to my Github page </h2>
 
-<img align='right' src='https://i.pinimg.com/originals/dd/d8/ff/ddd8ff292a30b9ad856856aa920d1081.gif' height='275' width='200"'>
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img src='https://github.com/user-attachments/assets/e3b8e995-0a52-4232-9e40-598108544e75' height='475' width='100%'>
+</div>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-Red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bengray190@gmail.com)](mailto:bengray190@gmail.com)
