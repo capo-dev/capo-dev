@@ -8,11 +8,19 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-Red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bengray190@gmail.com)](mailto:bengray190@gmail.com)
 
 Hey, I'm Ben! Originally from Scotland, I moved to the U.S. during my early years of education. 📚 I'm passionate about cybersecurity and constantly working to enhance information technology security. Always eager to learn, grow, and tackle new challenges in the field!
-## 💻 Projects
-* QueuedV - Co-founder of Social Media Automation Company
-* [![Windows PyWare](https://img.shields.io/badge/Windows-PyWare-pink)](https://github.com/capo-dev/Windows-PyWare) - Simple Python Spyware for Windows
-* 
+## 💻 Portfolio
 
+I’ve created a dedicated [GitHub Portfolio](https://github.com/capo-dev/Portfolio) where I showcase all my projects. In the portfolio, you'll find detailed descriptions of the projects I've worked on, including:
+
+- **Cybersecurity** experiments and honeynet setups.
+- **Windows development** and automation projects.
+- **Web development** projects built with modern technologies.
+
+Each project contains the relevant code, documentation, and demonstrations, providing you with insights into my work and skillset.
+
+[Click here to explore my GitHub Portfolio!](https://github.com/capo-dev/Portfolio)
+
+---
 
 ##  📖 Education
 - Assosciates in Cyber Security: Lone Star College System
