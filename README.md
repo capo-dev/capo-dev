@@ -1,7 +1,7 @@
 <h2> Welcome to my Github page </h2>
 
-<div style="display: flex; justify-content: center; align-items: center;">
-    <img src='https://github.com/user-attachments/assets/e3b8e995-0a52-4232-9e40-598108544e75' height='475' width='100%'>
+<div style="text-align: center;">
+    <img src='https://github.com/user-attachments/assets/504faaef-4752-4c7a-9eeb-272e58ea59b1' style="width: 100%; height: 375px;">
 </div>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/) 
