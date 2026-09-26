@@ -1,82 +1,87 @@
-<h2>Welcome to my Github page</h2>
-<div style="text-align: center;">
-    <img src='https://github.com/user-attachments/assets/504faaef-4752-4c7a-9eeb-272e58ea59b1' style="width: 100%; height: 375px;">
-</div>
+<p align="center">
+  <img src="./header.svg" alt="capo-dev: cloud security, automation, threat hunting" width="100%">
+</p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/benjamingray190/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-Red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bengray190@gmail.com)](mailto:bengray190@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/benjamingray190/"><img src="https://img.shields.io/badge/linkedin-0f1626?style=flat-square&logo=linkedin&logoColor=d6e0ee" alt="LinkedIn"></a>
+  <a href="mailto:bengray190@gmail.com"><img src="https://img.shields.io/badge/email-0f1626?style=flat-square&logo=gmail&logoColor=d6e0ee" alt="Email"></a>
+  <a href="https://github.com/capo-dev/Portfolio"><img src="https://img.shields.io/badge/portfolio-0f1626?style=flat-square&logo=github&logoColor=d6e0ee" alt="Portfolio"></a>
+</p>
 
-Hey, I'm Ben! Originally from Scotland, I moved to the U.S. during my early years of education. 📚 I'm a Security Analyst passionate about cybersecurity operations, threat detection, and building resilient security programs. Always eager to learn, grow, and tackle new challenges in the field!
+```
+capo-dev@wired:~$ whoami
+  name ........ Ben Gray
+  role ........ Head of Cybersecurity @ Lufkin Industries
+  origin ...... Scotland → Texas
+  focus ....... identity, zero trust, detection engineering, AI governance
+  building .... automation that closes the loop so humans don't have to
+  studying .... SC-500 (Cloud and AI Security Engineer)
 
----
+capo-dev@wired:~$ cat status
+  everything is connected. my job is making sure it's connected on purpose.
+```
 
-## 💼 Experience
+I'm Ben. I run cybersecurity for a global industrial manufacturer, which means owning the security program end to end: endpoint, email, identity, cloud, and the AI tools everyone suddenly wants to use. I'm a hands-on lead, so most days are split between strategy and actually building the thing.
 
-**IT Security Analyst — Lufkin Industries** *(Sept 2024 – Present)*
-- Developed and implemented Incident Response & Disaster Recovery plans
-- Authored and enforced 20+ IT security policies aligned to the NIST framework
-- Led the vulnerability management program including risk assessments, patching, and remediation
-- Managed and mentored a 20+ member SOC, optimizing threat detection and response
-- Monitored security events, analyzed threats, and refined security controls
+### layer 01 &nbsp;/&nbsp; what I do now
 
-**IT Security Intern — Lufkin Industries** *(June 2024 – Sept 2024)*
-- Worked with Microsoft Defender, Sentinel, and Intune for threat detection and compliance
-- Assisted in securing Azure cloud environments including IAM and PAM configuration
-- Leveraged SentinelOne to monitor network traffic and detect anomalies
+- **Identity and zero trust.** Own the Entra ID and Conditional Access strategy, drive the move to phishing-resistant MFA, and clean up privileged access across a hybrid AD and Entra environment.
+- **Detection and response.** Run EDR/MDR operations and email security, triage and hunt across endpoint, identity, and email telemetry, and tune detections to cut noise without cutting coverage.
+- **Security automation.** Build no-code and scripted workflows that auto-resolve confirmed alerts, correlate identity signals, and generate reporting, so recurring work runs itself.
+- **AI governance.** Roll out browser-layer controls and policy for generative AI use across the company, balancing visibility with letting people actually get work done.
+- **Cloud posture.** Assess and harden Azure with CSPM tooling, drive pen test remediation with our MSP, and push network segmentation and least-privilege access.
 
-**Cyber Security Support Engineer — Log(N) Pacific** *(Sept 2023 – Jan 2024)*
-- Implemented secure cloud configurations using Azure Private Link, NSGs, and Microsoft Defender for Cloud
-- Developed KQL queries supporting Log Analytics and Microsoft Sentinel, resulting in 5 new SIEM dashboards
-- Supported compliance initiatives across NIST 800-53, PCI DSS, and HIPAA/HITRUST
+### layer 02 &nbsp;/&nbsp; path
 
----
+**Lufkin Industries** &nbsp;·&nbsp; *June 2024 to present*<br>
+Head of Cybersecurity &nbsp;←&nbsp; IT Security Analyst &nbsp;←&nbsp; IT Security Intern<br>
+Went from intern to leading the program. Along the way: built the incident response and disaster recovery plans, wrote 20+ NIST-aligned security policies, and stood up the vulnerability management program.
 
-## 💻 Portfolio
+**Log(N) Pacific** &nbsp;·&nbsp; *Cyber Security Support Engineer, Sept 2023 to Jan 2024*<br>
+Secured Azure workloads with Private Link, NSGs, and Defender for Cloud. Wrote the KQL behind five new Sentinel dashboards. Supported NIST 800-53, PCI DSS, and HIPAA/HITRUST work.
 
-I've created a dedicated [GitHub Portfolio](https://github.com/capo-dev/Portfolio) showcasing all my projects, including:
+### layer 03 &nbsp;/&nbsp; protocols in progress
 
-- 🔬 **[SOC & Honeynet in Azure](https://github.com/capo-dev/SOC-Honeynet-in-Azure)** — Built a live SOC and honeynet using Azure VMs, Microsoft Sentinel, and Log Analytics
-- 📋 **[IR Playbooks](https://github.com/capo-dev/IR-Playbooks)** — Comprehensive incident response playbooks built with Python and SQLite
-- **Cybersecurity** experiments and automation projects
-- **Windows development** and endpoint management projects
+<a href="https://github.com/capo-dev/m365-defender-hunting">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=capo-dev&repo=m365-defender-hunting&bg_color=0f1626&title_color=f2b84b&text_color=d6e0ee&icon_color=8fd0ff&border_color=24324d" alt="m365-defender-hunting">
+</a>
+<a href="https://github.com/capo-dev/SOC-Honeynet-in-Azure">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=capo-dev&repo=SOC-Honeynet-in-Azure&bg_color=0f1626&title_color=f2b84b&text_color=d6e0ee&icon_color=8fd0ff&border_color=24324d" alt="SOC-Honeynet-in-Azure">
+</a>
+<a href="https://github.com/capo-dev/IR-Playbooks">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=capo-dev&repo=IR-Playbooks&bg_color=0f1626&title_color=f2b84b&text_color=d6e0ee&icon_color=8fd0ff&border_color=24324d" alt="IR-Playbooks">
+</a>
 
-[Click here to explore my GitHub Portfolio!](https://github.com/capo-dev/Portfolio)
+More in the [portfolio](https://github.com/capo-dev/Portfolio).
 
----
+### layer 04 &nbsp;/&nbsp; stack
 
-## 📖 Education
+![Defender XDR](https://img.shields.io/badge/defender_xdr-0f1626?style=flat-square&logo=microsoft&logoColor=d6e0ee)
+![Entra ID](https://img.shields.io/badge/entra_id-0f1626?style=flat-square&logo=microsoftazure&logoColor=d6e0ee)
+![Azure](https://img.shields.io/badge/azure-0f1626?style=flat-square&logo=microsoftazure&logoColor=d6e0ee)
+![Intune](https://img.shields.io/badge/intune-0f1626?style=flat-square&logo=microsoft&logoColor=d6e0ee)
+![Sentinel](https://img.shields.io/badge/sentinel-0f1626?style=flat-square&logo=microsoft&logoColor=d6e0ee)
+![SentinelOne](https://img.shields.io/badge/sentinelone-0f1626?style=flat-square&logo=sentinelone&logoColor=d6e0ee)
+![KQL](https://img.shields.io/badge/kql-0f1626?style=flat-square&logo=databricks&logoColor=d6e0ee)
+![PowerShell](https://img.shields.io/badge/pwsh_7-0f1626?style=flat-square&logo=powershell&logoColor=d6e0ee)
+![Microsoft Graph](https://img.shields.io/badge/ms_graph-0f1626?style=flat-square&logo=microsoft&logoColor=d6e0ee)
+![Python](https://img.shields.io/badge/python-0f1626?style=flat-square&logo=python&logoColor=d6e0ee)
+![SQL](https://img.shields.io/badge/sql-0f1626?style=flat-square&logo=sqlite&logoColor=d6e0ee)
 
-- **B.S. Cyber Security** — Lone Star College *(Fall 2024)*
-- **A.S. Cyber Security** — Lone Star College *(August 2022)*
-- Future pursuit: Master's in Business Administration
+**Frameworks:** NIST CSF and 800-53, PCI DSS, HIPAA/HITRUST
 
----
+### layer 05 &nbsp;/&nbsp; credentials
 
-## ✔️ Certifications
+**B.S. Cyber Security**, Lone Star College (2024) &nbsp;·&nbsp; **A.S. Cyber Security**, Lone Star College (2022)<br>
+**CompTIA Security+** &nbsp;·&nbsp; **SentinelOne Security Suite** &nbsp;·&nbsp; *SC-500 in progress*
 
-- CompTIA Security+
-- SentinelOne Security Suite
+### layer 06 &nbsp;/&nbsp; signal
 
----
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=capo-dev&show_icons=true&hide_rank=true&hide=issues&bg_color=0f1626&title_color=f2b84b&text_color=d6e0ee&icon_color=8fd0ff&border_color=24324d" height="165" alt="stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=capo-dev&layout=compact&bg_color=0f1626&title_color=f2b84b&text_color=d6e0ee&border_color=24324d" height="165" alt="languages">
+</p>
 
-## ⚡ Technologies & Skills
-
-- Microsoft Defender for Endpoint / Office 365 / Cloud
-- Microsoft Sentinel (SIEM) & Log Analytics
-- SentinelOne EDR
-- Azure (VMs, Active Directory, Private Link, NSGs)
-- Microsoft Intune (Endpoint Management)
-- KQL (Kusto Query Language)
-- Python & SQL
-- Tenable (Vulnerability Management)
-- NIST 800-53, PCI DSS, HIPAA/HITRUST Compliance
-- Incident Response & Threat Hunting
-
----
-
-## 👋 Reach out to me
-
-- 💬 Ask me about anything Cyber Security related!
-- 🖼️ Portfolio: [github.com/capo-dev/Portfolio](https://github.com/capo-dev/Portfolio)
-
-![capo-dev github stats](https://github-readme-stats.vercel.app/api?username=capo-dev&hide=["issues"]&show_icons=true)
+<p align="center">
+  <sub><code>// ask me anything security. the line is always open.</code></sub>
+</p>
